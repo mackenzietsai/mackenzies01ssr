@@ -1,9 +1,22 @@
 # mackenzies01ssr
 --------
 SSR doub.io 1.0
-
+一鍵
 ```
 wget -N --no-check-certificate https://raw.githubusercontent.com/mackenzietsai/mackenzies01ssr/master/ssr-doub.io.sh && chmod +x ssr-doub.io.sh && bash ssr-doub.io.sh
+```
+
+分解動作
+```
+wget -N --no-check-certificate https://raw.githubusercontent.com/mackenzietsai/mackenzies01ssr/master/ssr-doub.io.sh
+```
+
+```
+chmod +x ssr-doub.io.sh
+```
+
+```
+bash ssr-doub.io.sh
 ```
 
 ---------
@@ -13,25 +26,25 @@ wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.
 ```
 
 ```
-chmod +x shadowsocks-all.sh
+chmod +x shadowsocks-4in1.sh
 ```
 
 ```
-./shadowsocks-all.sh 2>&1 | tee shadowsocks-all.log
+./shadowsocks-4in1.sh 2>&1 | tee shadowsocks-4in1.log
 ```
 --------
 Google BBR
 
 ```
-wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
+wget --no-check-certificate https://raw.githubusercontent.com/mackenzietsai/mackenzies01ssr/master/bbr-google.sh
 ```
 
 ```
-chmod +x bbr.sh
+chmod +x bbr-google.sh
 ```
 
 ```
-./bbr.sh
+./bbr-google.sh
 ```
 
 -----------
