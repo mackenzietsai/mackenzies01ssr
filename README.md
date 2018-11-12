@@ -9,7 +9,7 @@ wget -N --no-check-certificate https://softs.fun/Bash/ssrmu.sh && chmod +x ssrmu
 ---------
 一鍵安裝腳本 (四合一)
 ```
-wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh
+wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/mackenzietsai/mackenzies01ssr/master/shadowsocks-4in1.sh
 ```
 
 ```
