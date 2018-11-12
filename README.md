@@ -22,7 +22,7 @@ bash ssr-doub.io.sh
 ---------
 一鍵安裝腳本 (四合一)
 ```
-wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/mackenzietsai/mackenzies01ssr/master/shadowsocks-4in1.sh
+wget --no-check-certificate -O shadowsocks-4in1.sh https://raw.githubusercontent.com/mackenzietsai/mackenzies01ssr/master/shadowsocks-4in1.sh
 ```
 
 ```
