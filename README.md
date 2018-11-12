@@ -1,9 +1,9 @@
 # mackenzies01ssr
 --------
-SSR 1.0
+SSR doub.io 1.0
 
 ```
-wget -N --no-check-certificate https://softs.fun/Bash/ssrmu.sh && chmod +x ssrmu.sh && bash ssrmu.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/mackenzietsai/mackenzies01ssr/master/ssr-doub.io.sh && chmod +x ssr-doub.io.sh && bash ssr-doub.io.sh
 ```
 
 ---------
