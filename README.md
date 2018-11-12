@@ -74,11 +74,11 @@ lsmod | grep bbr
 魔改BBR
 
 ```
-wget -N --no-check-certificate https://raw.githubusercontent.com/FunctionClub/YankeeBBR/master/bbr.sh && bash bbr.sh install
+wget -N --no-check-certificate https://raw.githubusercontent.com/mackenzietsai/mackenzies01ssr/master/bbr-mo-gai.sh && bash bbr-mo-gai.sh install
 ```
 
 ```
-bash bbr.sh start
+bash bbr-mo-gai.sh start
 ```
 
 ```
